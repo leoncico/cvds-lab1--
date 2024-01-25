@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: Camilo, Juan, Leonardo
+AUTORES: Camilo Murcia, Juan Contreras, Leonardo Piñeros
 
 CAPITULO UNO
 
