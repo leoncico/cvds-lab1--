@@ -38,23 +38,6 @@ Tomado de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barri
         opacity: 0.8;
     }
 
-    .gta{
-        background-color: rgb(0, 153, 0);
-        color: black;
-        height: 50px;
-        width: 100px;
-        cursor: pointer;
-    }
-
-    .gta:hover {
-        background-color: rgb(8, 8, 184);
-        color: white;
-    }
-
-    .gta:active{
-        opacity: 0.5;
-    }
-
     .skyrim{
         background-color: black;
         color: white;
@@ -73,16 +56,33 @@ Tomado de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barri
         box-shadow: 5px 5px 10px rgba(0,0,0, 0.15);
     }
 
-    .skyrin:active{
+    .skyrim:active{
         opacity: 0.2;
+    }
+
+    .gta{
+        background-color: rgb(0, 153, 0);
+        color: black;
+        height: 50px;
+        width: 100px;
+        cursor: pointer;
+    }
+
+    .gta:hover {
+        background-color: rgb(8, 8, 184);
+        color: white;
+    }
+
+    .gta:active{
+        opacity: 0.5;
     }
 </style>
 
 
 
 <button class="zelda">Zelda BOTW</button>
-<button class="gta">GTA V</button>
 <button class="skyrim">Skyrim</button>
+<button class="gta">GTA V</button>
 ```
 ## Parte 3
 
