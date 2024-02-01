@@ -104,3 +104,6 @@ El siguiente codigo es una práctica de html y css, consiste en hacer lo botones
 <button class="tweet">Tweet</button>
 <button class="stretch">Stretch</button>
 ```
+## Parte 3
+
+![pantallazo1](Pantallazo1.png)
