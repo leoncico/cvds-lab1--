@@ -6,7 +6,7 @@
 * _Ingenieria de *Sistemas*_
 
 ![alt](bogota.png)\
-Obtenido de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barrio-mas-cool-de-bogota-segun-la-inteligencia-artificial/)
+Tomado de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barrio-mas-cool-de-bogota-segun-la-inteligencia-artificial/)
 
 # Actividades que me gusta hacer:
 * Escuchar música
@@ -18,50 +18,45 @@ Obtenido de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-bar
 
 ```
 <style>
-    .sub {
-        background-color: rgb(194, 7, 7);
-        color: white;
-        border: none;
-        height: 35px;
-        width: 110px;
+    .zelda{
+        background-color: rgb(12, 183, 242);
+        color: black;
+        border-color: black;
+        height: 50px;
+        width: 100px;
         border-radius: 5px;
+        border-style: solid;
         cursor: pointer;
         margin-right: 10px;
-        transition: opacity 0.15s;
     }
 
-    .sub:hover {
+    .zelda:hover {
         opacity: 0.5;
     }
 
-    .sub:active {
+    .zelda:active {
         opacity: 0.8;
     }
 
-    .join{
-        background-color: white;
-        color: rgb(8, 8, 184);
-        border-color: rgb(8, 8, 184);
-        height: 35px;
+    .gta{
+        background-color: rgb(0, 153, 0);
+        color: black;
+        height: 50px;
         width: 100px;
-        border-radius: 5px;
-        border-width: 1px;
-        border-style: solid;
         cursor: pointer;
-        transition: background-color 1s, color 1s;
     }
 
-    .join:hover {
+    .gta:hover {
         background-color: rgb(8, 8, 184);
         color: white;
     }
 
-    .join:active{
+    .gta:active{
         opacity: 0.5;
     }
 
-    .tweet{
-        background-color: rgb(36, 124, 255);
+    .skyrim{
+        background-color: black;
         color: white;
         border: none;
         height: 35px;
@@ -74,39 +69,21 @@ Obtenido de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-bar
         transition: box-shadow 1s;
     }
 
-    .tweet:hover {
+    .skyrim:hover {
         box-shadow: 5px 5px 10px rgba(0,0,0, 0.15);
     }
 
-    .stretch {
-        background-color: rgb(6, 75, 6);
-        color: white;
-        border: none;
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        transition: padding-left 1s, padding-right 1s, padding-top 1s, padding-bottom 1s;
-        margin-top: 5px;
-        margin-left: 5px;
+    .skyrin:active{
+        opacity: 0.2;
     }
-
-    .stretch:hover {
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-
 </style>
 
 
 
-<button class="sub">SUBSCRIBE</button>
-<button class="join">JOIN</button>
-<button class="tweet">Tweet</button>
-<button class="stretch">Stretch</button>
+<button class="zelda">Zelda BOTW</button>
+<button class="gta">GTA V</button>
+<button class="skyrim">Skyrim</button>
 ```
 ## Parte 3
 
-![pantallazo1](Pantallazo1.png)
+![screenshot](prueba.png)
