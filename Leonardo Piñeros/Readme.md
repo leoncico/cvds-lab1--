@@ -2,7 +2,7 @@
 ## Por David Leonardo Piñeros Cortés
 
 * Edad 21 años
-* 7 semestre
+* 7 **semestre**
 * Ingenieria de _Sistemas_
 
 ![alt](xd.jpg)\
@@ -107,3 +107,4 @@ El siguiente codigo es una práctica de html y css, consiste en hacer lo botones
 ## Parte 3
 
 ![pantallazo1](Pantallazo1.png)
+![pantallazo2](Pantallazo2.png)
