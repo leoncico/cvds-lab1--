@@ -1,17 +1,20 @@
 # Laboratorio 1 CVDS 
-## Por David Leonardo Piñeros Cortés
+## Juan David Contreras Becerra
 
-* Edad 21 años
-* 7 semestre
-* Ingenieria de _Sistemas_
+* _Edad *20* años_
+* _*7* semestre_
+* _Ingenieria de *Sistemas*_
 
-![alt](xd.jpg)\
-Obtenido de [Pinterest](https://co.pinterest.com)
+![alt](bogota.png)\
+Obtenido de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barrio-mas-cool-de-bogota-segun-la-inteligencia-artificial/)
 
-El siguiente codigo es una práctica de html y css, consiste en hacer lo botones de algunas redes sociales como:
-1. Youtube
-2. Twitter
-3. Otras mas
+# Actividades que me gusta hacer:
+* Escuchar música
+   * No tengo género favorito
+* Jugar Videojuegos
+   1. Zelda BOTW
+   2. Skyrim
+   3. GTA V
 
 ```
 <style>
