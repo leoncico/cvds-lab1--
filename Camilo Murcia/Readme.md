@@ -27,5 +27,9 @@ El era mi gato Pancho :c
 
 ![evidencia](evidencia.png)
 
+Evidencia de la segunda parte: 
+
+![evidencia2](evidenciaRemota.png)
+
 
 
