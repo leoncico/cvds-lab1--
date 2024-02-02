@@ -86,4 +86,5 @@ Tomado de [Infobae](https://www.infobae.com/colombia/2023/04/27/este-es-el-barri
 ```
 ## Parte 3
 
-![screenshot](prueba.png)
+![prueba](prueba.png)
+![prueba2](prueba2.png)
